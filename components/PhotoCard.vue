@@ -67,7 +67,7 @@ img {
   background: linear-gradient(
     to bottom,
     rgba(235, 167, 167, 30%) 70%,
-    rgba(0, 0, 0, 90%) 130%
+    rgba(0, 0, 0, 1) 130%
   );
 }
 </style>

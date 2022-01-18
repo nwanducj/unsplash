@@ -22,11 +22,12 @@ export default {
 }
 
 .photo {
-  width: 250px;
+  /* width: 250px; */
+  width: 100%;
   background-color: #f5f5f5;
   border-radius: 15px;
   padding-bottom: 30px;
-  margin: 20px 0;
+  margin-bottom: 20px;
 }
 .card.is-loading {
   h2,
